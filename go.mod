@@ -1,4 +1,4 @@
-module tele
+module github.com/hayyoth/tele
 
 go 1.25.5
 
