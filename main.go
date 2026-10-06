@@ -1,6 +1,6 @@
 package main
 
-import "tele/cmd"
+import "github.com/hayyoth/tele/cmd"
 
 func main() {
 	cmd.Execute()

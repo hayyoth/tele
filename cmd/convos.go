@@ -11,11 +11,11 @@ import (
 	"github.com/gotd/td/telegram"
 	"github.com/gotd/td/telegram/query"
 	"github.com/gotd/td/tg"
-	"tele/internal/client"
-	"tele/internal/cache"
-	"tele/internal/dialogs"
-	"tele/internal/env"
-	"tele/internal/format"
+	"github.com/hayyoth/tele/internal/client"
+	"github.com/hayyoth/tele/internal/cache"
+	"github.com/hayyoth/tele/internal/dialogs"
+	"github.com/hayyoth/tele/internal/env"
+	"github.com/hayyoth/tele/internal/format"
 )
 
 var (

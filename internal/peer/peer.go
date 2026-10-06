@@ -8,7 +8,7 @@ import (
 
 	"github.com/gotd/td/telegram/message"
 	"github.com/gotd/td/tg"
-	"tele/internal/cache"
+	"github.com/hayyoth/tele/internal/cache"
 )
 
 // Resolve resolves a peer spec (e.g. @username or username) to InputPeerClass.

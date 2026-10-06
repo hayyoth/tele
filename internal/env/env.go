@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"tele/internal/config"
+	"github.com/hayyoth/tele/internal/config"
 )
 
 // AppID returns APP_ID from config file, then environment variable, then error.

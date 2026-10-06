@@ -11,8 +11,8 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/gotd/td/telegram"
-	"tele/internal/client"
-	"tele/internal/config"
+	"github.com/hayyoth/tele/internal/client"
+	"github.com/hayyoth/tele/internal/config"
 )
 
 var (

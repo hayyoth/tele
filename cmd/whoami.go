@@ -8,7 +8,7 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/gotd/td/telegram"
-	"tele/internal/client"
+	"github.com/hayyoth/tele/internal/client"
 )
 
 var whoamiCmd = &cobra.Command{

@@ -10,8 +10,8 @@ import (
 	"github.com/gotd/td/telegram"
 	"github.com/gotd/td/telegram/query"
 	"github.com/gotd/td/tg"
-	"tele/internal/client"
-	"tele/internal/peer"
+	"github.com/hayyoth/tele/internal/client"
+	"github.com/hayyoth/tele/internal/peer"
 )
 
 var forwardCmd = &cobra.Command{

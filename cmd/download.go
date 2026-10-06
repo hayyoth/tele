@@ -12,9 +12,9 @@ import (
 	"github.com/gotd/td/telegram/downloader"
 	"github.com/gotd/td/telegram/query"
 	"github.com/gotd/td/tg"
-	"tele/internal/client"
-	"tele/internal/media"
-	"tele/internal/peer"
+	"github.com/hayyoth/tele/internal/client"
+	"github.com/hayyoth/tele/internal/media"
+	"github.com/hayyoth/tele/internal/peer"
 )
 
 var (

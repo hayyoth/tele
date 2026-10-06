@@ -9,8 +9,8 @@ import (
 	"github.com/gotd/contrib/middleware/floodwait"
 	"github.com/gotd/td/telegram"
 	"github.com/gotd/td/telegram/auth"
-	cliauth "tele/internal/auth"
-	"tele/internal/env"
+	cliauth "github.com/hayyoth/tele/internal/auth"
+	"github.com/hayyoth/tele/internal/env"
 )
 
 // Options for creating the Telegram client.

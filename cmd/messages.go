@@ -14,11 +14,11 @@ import (
 	"github.com/gotd/td/telegram"
 	"github.com/gotd/td/telegram/query"
 	"github.com/gotd/td/tg"
-	"tele/internal/client"
-	"tele/internal/format"
-	"tele/internal/media"
-	msghelper "tele/internal/messages"
-	"tele/internal/peer"
+	"github.com/hayyoth/tele/internal/client"
+	"github.com/hayyoth/tele/internal/format"
+	"github.com/hayyoth/tele/internal/media"
+	msghelper "github.com/hayyoth/tele/internal/messages"
+	"github.com/hayyoth/tele/internal/peer"
 )
 
 var (
